@@ -29,13 +29,13 @@ protocol is enabled.
 
 2. Verify that the SQL Server service is started.
 
-   - *(SQL Server 2005, 2008, and 2008 R2)* Select **Start >
-       Administrative Tools > Services**, and verify that the **SQL Server
-       (MSSQLSERVER)** service is started.
+   - *(SQL Server 2005, 2008, and 2008 R2)* Select
+     **Start > Administrative Tools > Services**, and verify that the
+     **SQL Server (MSSQLSERVER)** service is started.
    - *(SQL Server 2012, 2014, and 2016)* Use the Windows key or hover the mouse
-       pointer over the lower-left corner of the desktop, select
-       **Administrative Tools > Services**, and verify that the **SQL Server
-       (MSSQLSERVER)** service is started.
+     pointer over the lower-left corner of the desktop, select
+     **Administrative Tools > Services**, and verify that the
+     **SQL Server (MSSQLSERVER)** service is started.
 
 3. Create more steps as needed.
 
