@@ -26,6 +26,7 @@ description or benefit of the product].
    using/index.rst
    api.rst
    administering/index.rst
-   reference/index.rst
+   support/index.rst
+   troubleshooting.rst
    additional-resources.rst
    common/common-end.rst
